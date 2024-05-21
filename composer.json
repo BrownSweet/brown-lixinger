@@ -1,5 +1,5 @@
 {
-  "name": "brown-lixinger/brown-lixinger",
+  "name": "brown/brown-lixinger",
   "description": "rpc",
   "require": {
 	"php": ">=7.2.5",
