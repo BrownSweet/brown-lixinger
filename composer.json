@@ -1,0 +1,21 @@
+{
+  "name": "brown-rpc/brown-rpc",
+  "description": "rpc",
+  "require": {
+	"php": ">=7.2.5",
+    "guzzlehttp/guzzle": "^7.5"
+  },
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Brown Sweet",
+      "email": "455764041@qq.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "lixinger\\": "src"
+    }
+  }
+}
